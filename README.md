@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# cobabelajar
+=======
+>>>>>>> 1bf6828 (first commit)
 # RO-CC
 - Projek Route Optimization Bagian Divisi Cloud Computing
 
@@ -50,3 +56,7 @@ Untuk menjalankan api jalankan perintah di terminal, pastikan sudah pernah insta
 ```bash
 npm run start
 ```
+<<<<<<< HEAD
+=======
+>>>>>>> fb842f6 (first commit)
+>>>>>>> 1bf6828 (first commit)
